@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/<USER>/<REPO>/main/black-ash-boss-codex-icon.p
 https://raw.githubusercontent.com/<USER>/<REPO>/main/black-ash-gather-nav-icon.png
 ```
 
+https://raw.githubusercontent.com/<USER>/<REPO>/main/duty-remote-bridge-icon.png
